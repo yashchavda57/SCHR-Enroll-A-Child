@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982240080827",
+    "firebase_url": "https://enrollchild-23d4f.firebaseio.com",
+    "project_id": "enrollchild-23d4f",
+    "storage_bucket": "enrollchild-23d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982240080827:android:80db23df7bcf44a281ca9e",
+        "android_client_info": {
+          "package_name": "com.example.enrollchild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982240080827-j8dibicuqfi0om7o0glrt73qs26tp93k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enrollchild",
+            "certificate_hash": "0f436ae2c7dc5d30a7864cd9aeb95597e5d950e8"
+          }
+        },
+        {
+          "client_id": "982240080827-fhu0vs5n0brngi15en7nevb4jlli3unl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPhs6r72uLI-X9xWoBfGp9vmMVddRQXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982240080827-fhu0vs5n0brngi15en7nevb4jlli3unl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

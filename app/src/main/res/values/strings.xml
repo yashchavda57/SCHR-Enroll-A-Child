@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnrollChild</string>
+    <string name="fullname">Full Name</string>
+    <string name="fathername">Father\'s Name</string>
+</resources>
